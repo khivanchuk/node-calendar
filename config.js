@@ -8,7 +8,7 @@ args.forEach((item, idx) => {
 
 const config = {
     PORT: process.env.PORT,
-    ENV: data['env']
+    ENV: data.env
 }
 
 module.exports.config = config;
