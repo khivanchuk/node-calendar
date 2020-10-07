@@ -23,5 +23,4 @@ if (cluster.isMaster) {
 
     workers.push({id: process.pid, count: 0});
     console.log(`Worker ${process.pid} started`);
-    console.log(workers);
 }
