@@ -1,0 +1,24 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "This code illustrates Node.js use cases",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kivanchuk/node-calendar.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/kivanchuk/node-calendar/issues"
+  },
+  "homepage": "https://github.com/kivanchuk/node-calendar#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "stream": "0.0.2"
+  }
+}
